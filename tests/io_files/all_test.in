@@ -1,0 +1,18 @@
+echo my own "\"test\"" case which 'is \'quoted\''
+echo this "should return error
+/bin/echo "This is an absolute path test."
+/bin
+./no_exec.sh
+echo "a" |
+echo "Hello | cat"
+echo "b" || echo "abc"
+pwd djdjfk
+pwd -t
+cd jkkl kjkj
+cd /jdkfjdkfj
+which sort
+which cd
+which
+exit 0 0 0
+exit h
+nonexistent_command

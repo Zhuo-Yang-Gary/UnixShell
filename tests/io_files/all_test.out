@@ -1,0 +1,20 @@
+>>my own "test" case which is 'quoted'
+>>mysh: syntax error: unterminated quote
+>>This is an absolute path test.
+>>mysh: is a directory: /bin
+>>mysh: no such file or directory: ./no_exec.sh
+>>mysh: syntax error: expected command after pipe
+>>Hello | cat
+>>mysh: syntax error: expected command after pipe
+>>pwd: not expecting any arguments
+>>pwd: invalid option: -t
+>>cd: too many arguments
+>>cd: no such file or directory: /jdkfjdkfj
+>>/usr/bin/sort
+>>cd: shell built-in command
+>>usage: which command ...
+>>exit: too many arguments
+>>exit: non-integer exit code provided: h
+>>mysh: command not found: nonexistent_command
+>>
+>>
